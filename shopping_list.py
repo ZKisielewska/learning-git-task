@@ -1,7 +1,7 @@
 # define the dictionary
 shopping_list = {
-    "iSpot": ["laptop", "keyboard", "mouse"],
-    "Empik": ["books", "notebooks", "pencils"]
+    "iSpot": ["laptop", "keyboard", "mouse", "monitor"],
+    "Empik": ["books", "notebooks", "pencils", "markers"]
 }
 
 # using for loop we iterate through the dictionary
